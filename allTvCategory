@@ -1,34 +1,19 @@
 {
-  "categoryId": 1,
-  "categoryTitle": "Live TV >",
-  "categoryItemList": [
+
     {
-      "titleName": "onathan",
-      "id": 1,
-      "imageUrl": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/242806478_6560925547252679_5704300362337386019_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=973b4a&_nc_ohc=tJfgCDiy7KsAX-arXJK&_nc_ht=scontent-lga3-2.xx&oh=00_AT_zprJ5w4c_N2OQecmsrNAiz9RHao1FE7cYHFTYdqQtyQ&oe=61D874E2",
-      "fileUrl": "https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8",
-      "description": "A Tesla estáa escrever a história do automobilismo e já está a projetar para um futuro próximo o tempo em que os humanos vão deixar de conduzir. Com a sua tecnologia atual, os carros já têm um signi… [+2477 chars]"
+     "categoryId": 1,
+  "categoryTitle": "Live TV >"
     },
     {
-      "titleName": "athan",
-      "id": 2,
-      "imageUrl": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/242806478_6560925547252679_5704300362337386019_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=973b4a&_nc_ohc=tJfgCDiy7KsAX-arXJK&_nc_ht=scontent-lga3-2.xx&oh=00_AT_zprJ5w4c_N2OQecmsrNAiz9RHao1FE7cYHFTYdqQtyQ&oe=61D874E2",
-      "fileUrl": "https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8",
-      "description": "A Tesla estáa escrever a história do automobilismo e já está a projetar para um futuro próximo o tempo em que os humanos vão deixar de conduzir. Com a sua tecnologia atual, os carros já têm um signi… [+2477 chars]"
+     "categoryId": 2,
+  "categoryTitle": "Live TV >"
     },
     {
-      "titleName": "TY",
-      "id": 3,
-      "imageUrl": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/242806478_6560925547252679_5704300362337386019_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=973b4a&_nc_ohc=tJfgCDiy7KsAX-arXJK&_nc_ht=scontent-lga3-2.xx&oh=00_AT_zprJ5w4c_N2OQecmsrNAiz9RHao1FE7cYHFTYdqQtyQ&oe=61D874E2",
-      "fileUrl": "https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8",
-      "description": "A Tesla estáa escrever a história do automobilismo e já está a projetar para um futuro próximo o tempo em que os humanos vão deixar de conduzir. Com a sua tecnologia atual, os carros já têm um signi… [+2477 chars]"
-    },
-    {
-      "titleName": "Mut",
-      "id": 4,
-      "imageUrl": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/242806478_6560925547252679_5704300362337386019_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=973b4a&_nc_ohc=tJfgCDiy7KsAX-arXJK&_nc_ht=scontent-lga3-2.xx&oh=00_AT_zprJ5w4c_N2OQecmsrNAiz9RHao1FE7cYHFTYdqQtyQ&oe=61D874E2",
-      "fileUrl": "https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8",
-      "description": "A Tesla estáa escrever a história do automobilismo e já está a projetar para um futuro próximo o tempo em que os humanos vão deixar de conduzir. Com a sua tecnologia atual, os carros já têm um signi… [+2477 chars]"
+     "categoryId": 3,
+  "categoryTitle": "Live TV >"
+    },{
+     "categoryId": 4,
+  "categoryTitle": "Live TV >"
     }
-  ]
+  
 }
