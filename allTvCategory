@@ -1,28 +1,28 @@
 [
 {
-categoryId: 1,
-  categoryTitle: "Live TV  >",
-  categoryItemList: [
+"categoryId": 1,
+  "categoryTitle": "Live TV  >",
+  "categoryItemList": [
   {
-    id: 1,
-    titleName: "3ABN | International Network",
-    imageUrl: "https://www.linkpicture.com/q/4_278.jpg",
-    fileUrl: "https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8",
-    description: "Three Angels Broadcasting Network (3ABN) is dedicated to proclaiming the three angels’ messages of Revelation 14 as God’s messages of grace to a lost and dying world! Through a variety of Christ-centered programming, 3ABN offers hope on a wide range of topics for all ages. From Bible teaching, uplifting Christian music, and children's programs, to cooking, healthy living, and family issues, 3ABN offers inspired and life-saving solutions from our Creator God."
+    "id": 1,
+    "titleName": "3ABN | International Network",
+    "imageUrl": "https://www.linkpicture.com/q/4_278.jpg",
+    "fileUrl": "https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8",
+    "description": "Three Angels Broadcasting Network (3ABN) is dedicated to proclaiming the three angels’ messages of Revelation 14 as God’s messages of grace to a lost and dying world! Through a variety of Christ-centered programming, 3ABN offers hope on a wide range of topics for all ages. From Bible teaching, uplifting Christian music, and children's programs, to cooking, healthy living, and family issues, 3ABN offers inspired and life-saving solutions from our Creator God."
   },
   {
-    id: 2,
-    titleName: "3ABN | International Network",
-    imageUrl: "https://www.linkpicture.com/q/1_935.jpg",
-    fileUrl: "https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8",
-    description: "Three Angels Broadcasting Network (3ABN) is dedicated to proclaiming the three angels’ messages of Revelation 14 as God’s messages of grace to a lost and dying world! Through a variety of Christ-centered programming, 3ABN offers hope on a wide range of topics for all ages. From Bible teaching, uplifting Christian music, and children's programs, to cooking, healthy living, and family issues, 3ABN offers inspired and life-saving solutions from our Creator God."
+    "id": 2,
+    "titleName": "3ABN | International Network",
+    "imageUrl": "https://www.linkpicture.com/q/1_935.jpg",
+    "fileUrl": "https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8",
+    "description": "Three Angels Broadcasting Network (3ABN) is dedicated to proclaiming the three angels’ messages of Revelation 14 as God’s messages of grace to a lost and dying world! Through a variety of Christ-centered programming, 3ABN offers hope on a wide range of topics for all ages. From Bible teaching, uplifting Christian music, and children's programs, to cooking, healthy living, and family issues, 3ABN offers inspired and life-saving solutions from our Creator God."
   },
   {
-    id: 3,
-    titleName: "3ABN | International Network",
-    imageUrl: "https://www.linkpicture.com/q/3_308.jpg",
-    fileUrl: "https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8",
-    description: "Three Angels Broadcasting Network (3ABN) is dedicated to proclaiming the three angels’ messages of Revelation 14 as God’s messages of grace to a lost and dying world! Through a variety of Christ-centered programming, 3ABN offers hope on a wide range of topics for all ages. From Bible teaching, uplifting Christian music, and children's programs, to cooking, healthy living, and family issues, 3ABN offers inspired and life-saving solutions from our Creator God."
+    "id: 3,
+    "titleName": "3ABN | International Network",
+    "imageUrl": "https://www.linkpicture.com/q/3_308.jpg",
+    "fileUrl": "https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8",
+    "description": "Three Angels Broadcasting Network (3ABN) is dedicated to proclaiming the three angels’ messages of Revelation 14 as God’s messages of grace to a lost and dying world! Through a variety of Christ-centered programming, 3ABN offers hope on a wide range of topics for all ages. From Bible teaching, uplifting Christian music, and children's programs, to cooking, healthy living, and family issues, 3ABN offers inspired and life-saving solutions from our Creator God."
   }
   ]
 }
