@@ -3,41 +3,29 @@
   "categoryTitle": "TV",
   "categoryItemList": [
     {
-      "source": {
-        "id": 1,
-        "name": "AvventoRadio"
-      },
-      "editor": "Muta-Jonathan",
+     "id": 1,
+      "titleName": "Muta-Jonathan",
       "description": "Take Time to listen live",
       "fileUrl": "",
       "imageUrl": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/242806478_6560925547252679_5704300362337386019_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=973b4a&_nc_ohc=tJfgCDiy7KsAX-arXJK&_nc_ht=scontent-lga3-2.xx&oh=00_AT_zprJ5w4c_N2OQecmsrNAiz9RHao1FE7cYHFTYdqQtyQ&oe=61D874E2"
     },
     {
-      "source": {
-        "id": 5,
-        "name": "3ABN UG"
-      },
-      "editor": "Timothy Katende",
+       "id": 2,
+      "titleName": "Timothy Katende",
       "description": "Take Time to watch live",
       "fileUrl": "",
       "imageUrl": "https://images.unsplash.com/photo-1509021436665-8f07dbf5bf1d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Z29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
     },
     {
-      "source": {
-        "id": 2,
-        "name": "3ABN UG"
-      },
-      "editor": "Moses Nuwagaba",
+     "id": 3,
+      "titleName": "Moses Nuwagaba",
       "description": "AvventoRadio + 3ABN TV -UG wishes u a happy Holiday",
       "fileUrl": "",
       "imageUrl": "https://images.unsplash.com/photo-1507036066871-b7e8032b3dea?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTM4fHxoYXBweSUyMGZhbWlseXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
     },
     {
-      "source": {
-        "id": 4,
-        "name": "AvventoRadio"
-      },
-      "editor": "Edison Muyinza",
+    "id": 4,
+      "titleName": "Edison Muyinza",
       "description": "Jesus is coming soon Let the water and the blood..From thy riven side which flowed Oh, be of sin the double cure ...Cleanse me from its guilt and power",
       "fileUrl": "",
       "imageUrl": "https://media.istockphoto.com/photos/jesus-christ-walks-with-a-child-among-the-clouds-picture-id480890344?b=1&k=20&m=480890344&s=170667a&w=0&h=WLqxp3uSAaJl2TEkMcNMYOrzyo68AyOhxhK4nnhYFsI="
