@@ -1,4 +1,5 @@
 {
+"category": {
   "categoryId": 1,
   "categoryTitle": "TV",
   "categoryItemList": [
@@ -31,4 +32,5 @@
       "imageUrl": "https://media.istockphoto.com/photos/jesus-christ-walks-with-a-child-among-the-clouds-picture-id480890344?b=1&k=20&m=480890344&s=170667a&w=0&h=WLqxp3uSAaJl2TEkMcNMYOrzyo68AyOhxhK4nnhYFsI="
     }
   ]
+}
 }
