@@ -21,7 +21,7 @@
       "titleName": "3ABN Kids Network",
       "description": "3ABN Kids Network is a channel for kids of all ages! Featuring 24/7 Christ-centered programming, it provides a great way for children to learn more about Jesus. Enjoy the fun crafts, stories, science experiments, cooking demos, music, nature programs, and much more. Please visit the 3ABN Kids Network website, 3abnkids.tv for more details.",
       "fileUrl": "https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8",
-      "imageUrl": "https://images.unsplash.com/photo-1507036066871-b7e8032b3dea?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTM4fHxoYXBweSUyMGZhbWlseXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+      "imageUrl": "https://3abn.org/img/logos/tv/3ABN-Kids.png"
     },
     {
     "id": 4,
@@ -34,10 +34,10 @@
   "categoryItemList2": [
     {
      "id": 1,
-      "titleName": "Muta-Jonathan",
-      "description": "Take Time to listen live",
-      "fileUrl": "",
-      "imageUrl": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/242806478_6560925547252679_5704300362337386019_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=973b4a&_nc_ohc=tJfgCDiy7KsAX-arXJK&_nc_ht=scontent-lga3-2.xx&oh=00_AT_zprJ5w4c_N2OQecmsrNAiz9RHao1FE7cYHFTYdqQtyQ&oe=61D874E2"
+      "titleName": "EBIBUZO NO' KUDIBWAMU | 3ABN GOSPEL RALLY | DAY 07 ~ Pastor IVAN SSEBAGALA",
+      "description": "AvventoMedia is Flying the gospel to the whole world. It's content is branded as AvventoProductions on youtube,facebook,soundcloud & mixcloud. It can also be found'' on AvventoRadio at media.avventohome.org and free to air 3ABN Uganda Television.",
+      "fileUrl": "1S0G1bHF7D8",
+      "imageUrl": "https://i.ytimg.com/vi/1S0G1bHF7D8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8xmjRCzn0iWoutTpOlWHA3ifofQ"
     },
     {
        "id": 2,
