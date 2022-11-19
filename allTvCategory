@@ -6,7 +6,7 @@
      "id": 1,
       "titleName": "3ABN | UGANDA",
       "description": "Three Angels Broadcasting Network (3ABN) is blessing Uganda through our Uganda affiliate channel 45, search for this channel in central Uganda.",
-      "fileUrl": "http://192.168.1.31:8100/main.m3u8",
+      "fileUrl": "rtmp://ch-6.castr.io/static/83e943a03b4811edade639da954ae310",
       "imageUrl": "https://avventohome.org/wp-content/uploads/2022/10/3ABN_UG_app.png"
     },
     {
